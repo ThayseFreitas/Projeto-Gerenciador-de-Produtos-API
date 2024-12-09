@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\data\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\data\\produtocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\migrations\\20241206205132_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\migrations\\20241206205132_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|c:\\users\\thayse\\source\\repos\\gerenciadordeprodutoapi\\gerenciadordeprodutoapi\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01D302-83E5-4F65-9261-36609A380157}|GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi.csproj|solutionrelative:gerenciadordeprodutoapi\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Program.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:04:44.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:48:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Models\\Produto.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:39:11.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:07:45.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:28:23.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Data\\ProdutoContext.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Data\\ProdutoContext.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Data\\ProdutoContext.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Data\\ProdutoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:49:57.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Services\\JwtService.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:05:42.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Models\\Categoria.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:39:04.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Models\\UserRequest.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Models\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Models\\UserRequest.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Models\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:49:45.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\appsettings.json",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T22:49:40.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241206205132_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Migrations\\20241206205132_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\Migrations\\20241206205132_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\Migrations\\20241206205132_InitialCreate.Designer.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\Migrations\\20241206205132_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:03:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\HomeController.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutoApi\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Thayse\\source\\repos\\GerenciadorDeProdutoApi\\GerenciadorDeProdutoApi\\HomeController.cs",
+              "RelativeToolTip": "GerenciadorDeProdutoApi\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:49:34.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
