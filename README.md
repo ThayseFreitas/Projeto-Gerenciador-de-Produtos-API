@@ -45,15 +45,18 @@ Authorization: Bearer {token}
 
 ### Produtos
 
-- **GET /api/produtos** - Lista todos os produtos cadastrados.
-- **GET /api/produtos/em-estoque** - Lista todos os produtos que estão em estoque.
-- **POST /api/produtos** - Cria um novo produto.
-- **PUT /api/produtos/{id}** - Atualiza um produto existente.
-- **DELETE /api/produtos/{id}** - Exclui um produto existente.
+- **GET /api/produto** - Lista todos os produtos cadastrados.
+- **GET /api/produto/em-estoque** - Lista todos os produtos que estão em estoque.
+- **POST /api/produto** - Cria um novo produto.
+- **PUT /api/produto/{id}** - Atualiza um produto existente.
+- **DELETE /api/produto/{id}** - Exclui um produto existente.
 
 ### Categorias
 
-- **GET /api/categorias** - Lista todas as categorias cadastradas.
+- **GET /api/categoria** - Lista todas as categorias cadastradas.
+- **POST /api/categoria** - Cria uma nova categoria.
+- **PUT /api/categoria{id}** - Atualiza uma categoria existente.
+- **DELETE /api/categoria/{id}** - Exclui uma categoria existente.
 
 ## Autenticação e Autorização
 
